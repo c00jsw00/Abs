@@ -1,0 +1,6 @@
+trajin 6.amd.x 1 100 1
+strip :WAT
+strip :Cl-
+strip :OL
+strip :PC
+trajout amd.x nobox
